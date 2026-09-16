@@ -15,4 +15,4 @@ Microsoft es la empresa propietaria de GitHub desde 2018, cuando adquirió la pl
 - Detectar y solucionar errores.
 - Crear pruebas.
 
-![No funciona la imagen](https://www.hackaboss.com/wp-content/uploads/2025/11/64e79ca5aff2fb7295bfddf9_github-que-es.jpg)
+![No funciona la imagen](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGyRkhQVAiCOZv83SlQc1k4TNd38Ff9OyFdijtBC8p3xNJZfu1B-rlqPHU&s=10)
