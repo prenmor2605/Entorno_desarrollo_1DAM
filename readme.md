@@ -1,5 +1,5 @@
 
-### Github y Copilot
+# Github y Copilot
 ## Github
 
 **GitHub** es una plataforma para alojar _código, controlar versiones y colaborar en proyectos de software_. Utiliza Git para gestionar los cambios del código.
