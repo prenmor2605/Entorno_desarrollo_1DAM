@@ -14,4 +14,4 @@
 - Detectar y solucionar errores.
 - Crear pruebas.
 
-![No funciona la imagen](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGyRkhQVAiCOZv83SlQc1k4TNd38Ff9OyFdijtBC8p3xNJZfu1B-rlqPHU&s=10)
+![No funciona la imagen](Entorno_de_desarrollo/imagen.png)
