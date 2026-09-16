@@ -14,4 +14,4 @@
 - Detectar y solucionar errores.
 - Crear pruebas.
 
-![No funciona la imagen](Entorno_de_desarrollo/imagen.png)
+![No funciona la imagen](imagenes/Microsoft.png)
